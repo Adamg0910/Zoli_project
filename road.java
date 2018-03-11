@@ -1,4 +1,6 @@
-
+/**
+ * valami gáz van nem fut le az appod, mi lehet a baj?
+ */
 
 
 package zoli_projekt;
